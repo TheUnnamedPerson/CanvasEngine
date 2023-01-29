@@ -1,0 +1,17 @@
+C:\Users\ffons\Projects\WallpaperEngineCanvas\bin\Debug\net7.0\WallpaperEngineCanvas.exe
+C:\Users\ffons\Projects\WallpaperEngineCanvas\bin\Debug\net7.0\WallpaperEngineCanvas.deps.json
+C:\Users\ffons\Projects\WallpaperEngineCanvas\bin\Debug\net7.0\WallpaperEngineCanvas.runtimeconfig.json
+C:\Users\ffons\Projects\WallpaperEngineCanvas\bin\Debug\net7.0\WallpaperEngineCanvas.dll
+C:\Users\ffons\Projects\WallpaperEngineCanvas\bin\Debug\net7.0\WallpaperEngineCanvas.pdb
+C:\Users\ffons\Projects\WallpaperEngineCanvas\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ffons\Projects\WallpaperEngineCanvas\obj\Debug\net7.0\WallpaperEngineCanvas.csproj.AssemblyReference.cache
+C:\Users\ffons\Projects\WallpaperEngineCanvas\obj\Debug\net7.0\WallpaperEngineCanvas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ffons\Projects\WallpaperEngineCanvas\obj\Debug\net7.0\WallpaperEngineCanvas.AssemblyInfoInputs.cache
+C:\Users\ffons\Projects\WallpaperEngineCanvas\obj\Debug\net7.0\WallpaperEngineCanvas.AssemblyInfo.cs
+C:\Users\ffons\Projects\WallpaperEngineCanvas\obj\Debug\net7.0\WallpaperEngineCanvas.csproj.CoreCompileInputs.cache
+C:\Users\ffons\Projects\WallpaperEngineCanvas\obj\Debug\net7.0\WallpaperEngineCanvas.csproj.CopyComplete
+C:\Users\ffons\Projects\WallpaperEngineCanvas\obj\Debug\net7.0\WallpaperEngineCanvas.dll
+C:\Users\ffons\Projects\WallpaperEngineCanvas\obj\Debug\net7.0\refint\WallpaperEngineCanvas.dll
+C:\Users\ffons\Projects\WallpaperEngineCanvas\obj\Debug\net7.0\WallpaperEngineCanvas.pdb
+C:\Users\ffons\Projects\WallpaperEngineCanvas\obj\Debug\net7.0\WallpaperEngineCanvas.genruntimeconfig.cache
+C:\Users\ffons\Projects\WallpaperEngineCanvas\obj\Debug\net7.0\ref\WallpaperEngineCanvas.dll

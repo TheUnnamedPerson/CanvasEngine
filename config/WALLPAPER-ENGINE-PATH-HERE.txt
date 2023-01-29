@@ -1,0 +1,4 @@
+"C:/Program Files (x86)/Steam/steamapps/common/wallpaper_engine/"
+1
+//Path to Wallpaper Engine. Include Quotes.
+//Set Second Line to 0 If You Don't Want it to output to Wallpaper Engine

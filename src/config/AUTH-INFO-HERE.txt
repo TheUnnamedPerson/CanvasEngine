@@ -1,0 +1,2 @@
+//Link Here. Ex: https://courses.canvas.edu
+//Auth Token Here. Ex (NOT A REAL TOKEN): 0000~VGhpcyBpcyBhIEZha2UgVG9rZW4

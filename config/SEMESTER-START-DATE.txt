@@ -1,0 +1,8 @@
+2023-01-01
+14
+//WRITE SEMESTER START DATE HERE AS YYYY-MM-DD
+//Second Line Is For Max Number of Days Worth of Assignments
+
+//NOTE: According to Canvas, Each Class May Have Started a Bit Before Your Semester Actually Started.
+//      If You Are Getting Any Missing Classes Then its Reccommended that you Move the Start date
+//      To a Bit Before They Appeared On Canvas

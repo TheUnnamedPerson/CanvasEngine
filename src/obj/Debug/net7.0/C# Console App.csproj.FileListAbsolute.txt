@@ -1,0 +1,15 @@
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\obj\Debug\net7.0\C# Console App.csproj.AssemblyReference.cache
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\obj\Debug\net7.0\C# Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\obj\Debug\net7.0\C# Console App.AssemblyInfoInputs.cache
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\obj\Debug\net7.0\C# Console App.AssemblyInfo.cs
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\obj\Debug\net7.0\C# Console App.csproj.CoreCompileInputs.cache
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\bin\Debug\net7.0\C# Console App.exe
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\bin\Debug\net7.0\C# Console App.deps.json
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\bin\Debug\net7.0\C# Console App.runtimeconfig.json
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\bin\Debug\net7.0\C# Console App.dll
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\bin\Debug\net7.0\C# Console App.pdb
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\obj\Debug\net7.0\C# Console App.dll
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\obj\Debug\net7.0\refint\C# Console App.dll
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\obj\Debug\net7.0\C# Console App.pdb
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\obj\Debug\net7.0\C# Console App.genruntimeconfig.cache
+C:\Users\ffons\Projects\WallpaperEngineCanvas\C# Console App\obj\Debug\net7.0\ref\C# Console App.dll
